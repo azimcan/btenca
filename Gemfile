@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby "3.1.1"
+
 # Middleman Gems
 gem 'middleman', '~> 4.4', '>= 4.4.2'
 gem 'middleman-livereload', '~> 3.4', '>= 3.4.7'

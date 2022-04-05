@@ -126,5 +126,8 @@ DEPENDENCIES
   rack-contrib (~> 2.3)
   redcarpet (~> 3.5, >= 3.5.1)
 
+RUBY VERSION
+   ruby 3.1.1p18
+
 BUNDLED WITH
    2.3.10
